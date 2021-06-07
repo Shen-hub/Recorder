@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Recoder</string>
+    <string-array name="formats">
+        <item>AAC_ADTS</item>
+        <item>AMR_NB</item>
+        <item>AMR_WB</item>
+        <item>DEFAULT</item>
+        <item>MPEG_2_TS</item>
+        <item>MPEG_4</item>
+        <item>OGG</item>
+        <item>RAW_AMR</item>
+        <item>THREE_GPP</item>
+        <item>WEBM</item>
+    </string-array>
+</resources>
